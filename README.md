@@ -28,3 +28,9 @@ Before you start working: pull the latest changes
 
 We all work in our own branch
 
+## project structure
+Files in which algorithms are written to process the data, are placed in the folder 'Notebooks'
+
+Everyone creates their own notebook. To ensure we don't merge in the wrong way (as we are beginners with using Github)
+
+In the folder 'Data' all datasets are placed. In the input folder we place the unprocessed data files. In the output folder we place the resulting processed files. 
