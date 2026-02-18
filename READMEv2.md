@@ -25,9 +25,14 @@ __pycache__/    # Python cache files
 
 ## Git workflow for the group
 Before you start working: pull the latest changes
+    - git pull
+    - update project
 
 We all work in our own branch
 
+Once you want to update changes:
+    1. commit changes (in own branch)
+    2. push to main
 ## project structure
 Files in which algorithms are written to process the data, are placed in the folder 'Notebooks'
 
